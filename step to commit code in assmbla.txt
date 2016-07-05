@@ -1,0 +1,36 @@
+First Time cloning
+ 
+Clone the master branch.
+git clone git@git.assembla.com:app-dev-and-integration-cc.skillsweb.git
+Get into the folder and do git bash and run 
+git status to confirm you have master folder copy.
+Checkout your new branch
+git checkout -b origin "yourBranchName"
+Pushing your code for the first time
+git push origin "yourBranchName"
+
+
+Future code checkin
+
+Pull latest code from master everyday before you start coding. Making sure you are working on latest code base.
+git pull origin master
+
+Before you commit your code. Check the no. of files that has your changes
+git status
+
+Add your file to Commit Queue
+git add "path of the file" 
+
+Commit your changes once you have no files to add.
+git commit -m "Commit Message"
+
+Push your code to your branch
+git push origin "yourBranchName"
+
+Go to Assembla, click on "New Merge Request Link"
+
+Change the master branch to your branch and continue on raising a Pull Request.
+Add Santhosh and Shishir as reviewer for your checked in code.
+
+to add all files with folder
+git add .

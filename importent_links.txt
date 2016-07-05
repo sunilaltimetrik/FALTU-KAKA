@@ -1,0 +1,77 @@
+http://127.0.0.1:5984/_utils/
+
+http://127.0.0.1:5984/_utils/config.html
+hide all the toolbar buttons from PDF viewer
+http://www.coderanch.com/t/116342/HTML-CSS-JavaScript/disable-pdf-toolbar-buttons
+
+demo of angular page example
+https://codepen.io/nickmoreton/pen/mgtLK
+demo pdf reader
+http://embed.plnkr.co/IG4z1N/
+reading Angular topics DIR
+https://www.toptal.com/angular-js/angular-js-demystifying-directives
+nodejs and mssql with REST
+https://www.youtube.com/watch?v=xT2AvjQ7q9E#t=172.239989
+
+http://www.codeproject.com/Articles/828605/GridView-Batch-Editing-in-AngularJs
+chart...............
+http://krispo.github.io/angular-nvd3/#/multiChart
+http://plnkr.co/edit/jOoJik?p=preview
+
+validation
+https://github.com/jpkleemans/angular-validate
+
+Your order code is m0bj-p9io
+validation
+date range min to max
+
+html to pdf
+search by name,,,!exp
+animation of add profile,
+reactjs,
+html to pdf by jQuery
+http://jsfiddle.net/5ud8jkvf/
+pagination in angular
+https://samu.github.io/angular-table/examples/examples.html
+http://jsfiddle.net/SAWsA/1754/
+https://samu.github.io/angular-table/examples/examples.html
+add new one in same mail
+<<Adding Ramya T>>
+web viewer link
+https://groups.google.com/forum/#!forum/pdfnet-webviewer
+http://www.pdftron.com/webviewer/demo/tutorials/getting-started.html
+file upload in angular:-
+There are already many Angular.js modules to perform file uploading. These two have explicit support for older browsers:
+    https://github.com/leon/angular-upload - uses iframes as a fallback
+    https://github.com/danialfarid/ng-file-upload - uses FileAPI/Flash as a fallback
+   And some other options:
+    https://github.com/nervgh/angular-file-upload/
+    https://github.com/uor/angular-file
+    https://github.com/twilson63/ngUpload
+    https://github.com/uploadcare/angular-uploadcare
+TOD
+Pagination
+search
+data text from file dynamically
+rating
+down img as UI developer
+           
+
+
+
+
+
+List of Assessment and Test links
+
+Full Stack Developer – Backend : https://tests.mettl.com/authenticateKey/e13cbc3d
+Front End Developer : https://tests.mettl.com/authenticateKey/83c890d3
+Back end Developer : https://tests.mettl.com/authenticateKey/dce4c36
+Android Developer : https://tests.mettl.com/authenticateKey/dc7b463
+Web Development - https://tests.mettl.com/authenticateKey/16baa429
+IOS Developer - https://tests.mettl.com/authenticateKey/a5e0950
+Testing - https://tests.mettl.com/authenticateKey/84ed9b56
+Full stack Developer– front end  - https://tests.mettl.com/authenticateKey/3ff2dc4
+
+
+
+
